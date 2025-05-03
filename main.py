@@ -1,3 +1,7 @@
+"""
+This module is used as the main entry for the project
+"""
+
 from faker import Faker
 from icecream import ic
 
