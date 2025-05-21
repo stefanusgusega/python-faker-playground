@@ -2,10 +2,10 @@
 This is a simple example of how to use the DeepSeek API with the OpenAI Python client.
 """
 
+import os
 from openai import OpenAI
 from icecream import ic
 from dotenv import load_dotenv
-import os
 
 load_dotenv()
 
